@@ -1,0 +1,35 @@
+.grid{
+    height: 500px;
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.turn-highlight{
+    color: antiquewhite;
+}
+.reset{
+
+    padding: 5px 5px 5px 5px;
+
+
+} 
+
+.grid-wrapper{
+    margin-left: 500px;
+}
+.game{
+    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-left: 150px;
+    color: rgb(12, 12, 12);
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    background-color: rgb(250, 241, 243);
+    width: fit-content;
+    padding: 15px 25px 15px 25px;
+    border-radius: 10%;
+    
+}
